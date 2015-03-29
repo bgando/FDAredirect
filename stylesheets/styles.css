@@ -5,7 +5,7 @@ body {
   font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#777;
   font-weight:300;
-  background-color: gray;
+  background-color: #343232;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -35,8 +35,8 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#39c;
-  font-weight:400;
+  color:#008B8B;
+  font-weight:800;
   text-decoration:none;
 }
 
